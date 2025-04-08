@@ -1,0 +1,41 @@
+# JetBrains Rider
+.idea/
+*.sln.iml
+*.DotSettings.user
+
+# Build results
+bin/
+obj/
+artifacts/
+TestResults/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# ASP.NET static files (optional)
+**/wwwroot/lib/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (if ever used)
+.vscode/
+
+# ReSharper (sometimes Rider also creates these)
+_ReSharper*/
+*.[Rr]e[Ss]harper
